@@ -4,7 +4,7 @@
 
 微信公众号：开源软件 ; 公众号ID：OSS0539
 
-本项目这是一个网址导航网站，基于[这个开源项目]（https://github.com/WebStackPage/WebStackPage.github.io）创建。
+本项目这是一个网址导航网站，基于[这个开源项目](https://github.com/WebStackPage/WebStackPage.github.io)创建。
 
 ### 关于这个网站
 
@@ -23,8 +23,8 @@
 - 免费，开源的最好。
 - 无广告，不夹带私货。
 - 无毒，可放心食用。
-- 实用，
-- 颜值高
+- 实用，才是最重要的。
+- 颜值高，毕竟这是个看脸的时代。
 
 
 ![欢迎加入](https://mmbiz.qpic.cn/mmbiz_png/r8emXAtHbZFe7yjx2CqiaRDBPRkbxnmrmCC82Sib48VzicQhJUBicjqRLf0PPlsh3ibKxzMnNnpupblRrTKDo3gHE9g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
