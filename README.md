@@ -4,7 +4,9 @@
 
 微信公众号：开源软件 ; 公众号ID：OSS0539
 
-本项目这是一个网址导航网站，基于[这个开源项目](https://github.com/WebStackPage/WebStackPage.github.io)创建。
+--
+本项目是一个网址导航网站，基于[这个开源项目](https://github.com/WebStackPage/WebStackPage.github.io)创建。
+--
 
 ### 关于这个网站
 
